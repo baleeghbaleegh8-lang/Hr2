@@ -1,0 +1,6 @@
+{
+  "name": "منصة التوليد المؤسسي الذكية",
+  "description": "منصة التوليد المؤسسي الذكية الشاملة للأنظمة والملفات والمستندات والمعارف والتقارير وحزم ERP",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
